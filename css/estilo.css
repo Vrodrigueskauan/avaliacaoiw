@@ -1,0 +1,32 @@
+body{
+    background-color: white;
+}
+header{
+    background-color: rgb(6, 144, 255);
+}
+h1{
+    text-align: center;
+}
+
+.banner{
+    width: 80%;
+}
+ 
+.container{
+    width: 80%;
+    background-color: rgb(16, 144, 255);
+    margin: auto;
+}
+footer{
+    background-color: rgb(16, 144, 255);
+}
+
+
+
+
+
+
+
+
+
+
